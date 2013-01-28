@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "LoopWithFileName", "LoopWithFileName\LoopWithFileName.dtproj", "{101BB300-AF5E-4007-A1DE-F4FCA978BE3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101BB300-AF5E-4007-A1DE-F4FCA978BE3E}.Development|Default.ActiveCfg = Development
+		{101BB300-AF5E-4007-A1DE-F4FCA978BE3E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
